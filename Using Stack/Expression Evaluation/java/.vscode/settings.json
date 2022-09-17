@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\user\\OneDrive\\Data Structure\\Linked Stack\\java\\src\\StackJar.jar",
+        "c:\\Users\\user\\OneDrive\\Data Structure\\Linked Stack\\java\\src\\NodeJar.jar"
+    ]
+}
