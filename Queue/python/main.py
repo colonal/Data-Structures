@@ -1,0 +1,12 @@
+import pyqueue
+queue = pyqueue.Queue()
+queue.enqueue(5)
+queue.enqueue(10)
+queue.enqueue(15)
+queue.enqueue(20)
+queue.enqueue(25)
+queue.dequeue()
+queue.enqueue(30)
+queue.desplay()
+print(queue.getFront())
+print(queue.search(20))
